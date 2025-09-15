@@ -70,3 +70,17 @@ AutoPent is a first-of-its-kind framework that redefines automated offensive sec
 ## AutoPent Project Workflow: A Seven-Step Process
 
 This document outlines the seven key stages of the AutoPent project, from initial reconnaissance to the final user interface. Each step leverages specific tools and methodologies to create a comprehensive, automated offensive security framework.
+
+---
+
+## Step 1: Reconnaissance & Target Discovery
+
+This initial phase involves collecting as much information as possible about the target system to identify potential attack vectors before launching any exploits. The primary goal is to map the attack surface by extracting DNS records, IP addresses, and exposed services.
+
+For this, we will use the following OSINT (Open-Source Intelligence) API keys:
+
+* **Shodan:** Scans the internet for open ports and exposed devices. It is best suited for IoT, open ports, and banner grabbing.
+* **BinaryEdge:** Provides IP scanning data and device fingerprinting. It excels at mass scanning, which helps in detecting data vulnerabilities, and is also useful for botnet and malware hunting.
+* **Onyphe:** Specializes in threat intelligence and darknet analysis, providing capabilities like dark web tracking.
+
+---
