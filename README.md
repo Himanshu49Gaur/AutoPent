@@ -1,0 +1,10 @@
+# AutoPent – Automated Penetration Testing Framework
+
+## Overview
+
+**AutoPent** is a **one of its kind, AI-powered penetration testing framework** designed to automate the complete security testing lifecycle.
+It combines **reconnaissance, vulnerability scanning, exploitation, privilege escalation, AI-driven analysis, and automated reporting** into a single integrated platform.
+
+Unlike traditional tools, AutoPent leverages **LLM (LLaMA 3.1)** to provide intelligent recommendations, generate remediation steps, and analyze vulnerabilities dynamically.
+
+---
