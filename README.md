@@ -134,3 +134,15 @@ Privilege escalation is the process of gaining higher-level access to a system o
     * Identifies hardcoded credentials and environment variables containing sensitive data.
 
 ---
+
+## Step 5: Source Code Analysis
+
+This is the process of examining application code to identify security vulnerabilities, logic flaws, and coding errors that could be exploited by attackers.
+
+* **Haiku (Claude 3.5):**
+    * An AI-powered static code analysis tool that helps developers identify security vulnerabilities and coding errors.
+    * Supports multiple programming languages (e.g., Java, Python, JavaScript).
+    * **Claude 3.5 Haiku** is the next-generation model, offering greater speed and improved skill across the board. It provides more efficient source code analysis and gives more detailed insights into found vulnerabilities.
+    * **Benefit:** Provides fix recommendations for vulnerabilities and helps automate secure code reviews in DevSecOps pipelines.
+
+---
