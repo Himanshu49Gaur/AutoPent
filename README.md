@@ -102,3 +102,19 @@ This process automates the detection of misconfigurations, outdated software, an
     * **Purpose:** Crucial for identifying weak services, misconfigurations, and open ports on a network.
 
 ---
+
+## Step 3: Exploitation & Attack Automation
+
+This step aims to determine the actual risk posed by identified vulnerabilities by simulating real-world cyberattacks in a controlled manner.
+
+* **Socket:**
+    * Python's socket programming allows for creating custom exploits to attack vulnerable systems.
+    * Attackers can send malicious payloads to web servers, databases, or SSH services.
+    * **Project Feature:** It converts a target URL into its IP address, which is then fed to the Metasploit framework for exploitation attacks. This simplifies the process for the user, who only needs to provide a URL.
+
+* **Metasploit:**
+    * One of the most widely used penetration testing frameworks that helps security professionals discover, exploit, and validate vulnerabilities.
+    * It automates vulnerability exploitation, payload delivery, and post-exploitation actions.
+    * **Integration:** It uses an RPC server to connect to a Python script, which automates the exploitation process and can cycle through multiple payloads.
+
+---
