@@ -118,3 +118,19 @@ This step aims to determine the actual risk posed by identified vulnerabilities 
     * **Integration:** It uses an RPC server to connect to a Python script, which automates the exploitation process and can cycle through multiple payloads.
 
 ---
+
+## Step 4: Privilege Escalation
+
+Privilege escalation is the process of gaining higher-level access to a system or network, typically moving from a low-privileged user to an administrator or root user. This is achieved by exploiting security misconfigurations, vulnerabilities, or weak permissions.
+
+* **WinPEAS (Windows Privilege Escalation Awesome Scripts):**
+    * Detects weak file permissions, unquoted service paths, and passwords stored in plaintext.
+    * Identifies Windows vulnerabilities that allow privilege escalation.
+    * Finds misconfigured services, registry settings, and scheduled tasks.
+
+* **LinPEAS (Linux Privilege Escalation Awesome Scripts):**
+    * Detects sudo misconfigurations, SUID binaries, and writable files.
+    * Finds known kernel exploits that allow for privilege escalation.
+    * Identifies hardcoded credentials and environment variables containing sensitive data.
+
+---
