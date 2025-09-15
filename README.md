@@ -51,3 +51,19 @@ AutoPent is a first-of-its-kind framework that redefines automated offensive sec
     It features an intuitive PyQt5 GUI that acts as a single dashboard for managing complex penetration tests, making advanced security accessible without juggling multiple command-line tools.
 
 ---
+
+## Tech Stack
+
+* **Languages:** Python 3.11
+* **Frameworks:** PyQt5, Flask (for backend APIs)
+* **Libraries:**
+
+  * Recon: `scapy`, `sublist3r`, `shodan`
+  * Scanning: `nmap`, `openvas_lib`
+  * Exploitation: `msfrpc`, `pwntools`
+  * AI/ML: `transformers`, `llama-index`, `langchain`
+  * Reporting: `reportlab`, `jinja2`, `pdfkit`
+* **Databases:** SQLite for session & scan data
+* **AI Model:** **LLaMA 3.1** for contextual security insights
+
+---
