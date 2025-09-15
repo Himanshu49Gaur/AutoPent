@@ -84,3 +84,21 @@ For this, we will use the following OSINT (Open-Source Intelligence) API keys:
 * **Onyphe:** Specializes in threat intelligence and darknet analysis, providing capabilities like dark web tracking.
 
 ---
+
+## Step 2: Vulnerability Scanning
+
+This process automates the detection of misconfigurations, outdated software, and exploitable vulnerabilities in web applications, networks, and databases.
+
+* **NIKTO:**
+    * **Key Features:** Checks for outdated software versions and security misconfigurations, identifies exposed sensitive files (e.g., admin panels, backup files), and provides fast scanning with minimal false positives.
+    * **Purpose:** Helps in the early detection of security loopholes before manual testing.
+
+* **SQLMap:**
+    * **Key Features:** Automatic SQL Injection testing, database enumeration, supports multiple database types, and can bypass security measures.
+    * **Purpose:** Helps to uncover sensitive data leaks, unauthorized access, and database misconfigurations.
+
+* **Nmap:**
+    * **Key Features:** Port scanning, vulnerability detection (via NSE scripts), service fingerprinting, and Firewall/IDS detection.
+    * **Purpose:** Crucial for identifying weak services, misconfigurations, and open ports on a network.
+
+---
