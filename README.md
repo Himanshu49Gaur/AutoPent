@@ -67,3 +67,6 @@ AutoPent is a first-of-its-kind framework that redefines automated offensive sec
 * **AI Model:** **LLaMA 3.1** for contextual security insights
 
 ---
+## AutoPent Project Workflow: A Seven-Step Process
+
+This document outlines the seven key stages of the AutoPent project, from initial reconnaissance to the final user interface. Each step leverages specific tools and methodologies to create a comprehensive, automated offensive security framework.
