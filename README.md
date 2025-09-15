@@ -146,3 +146,25 @@ This is the process of examining application code to identify security vulnerabi
     * **Benefit:** Provides fix recommendations for vulnerabilities and helps automate secure code reviews in DevSecOps pipelines.
 
 ---
+
+## Step 7: User Interface and User Experience (UI/UX)
+
+A graphical user interface (GUI) is used to make the framework accessible and easy for users to navigate. It provides a visual representation of the modules running in the backend.
+
+* **Key Features:**
+    * **Integrated Security Testing:** A single dashboard to launch and monitor all tests.
+    * **Report Generation & Export:** Saves results as PDF or text files, allowing users to easily find and review the reports and see which modules were successful.
+
+* **Flask:**
+    * A lightweight web framework used for the backend.
+    * **Handles HTTP Requests:** Connects the front-end UI to the backend modules.
+    * **Supports API Calls:** Enables the remote execution of penetration testing tasks.
+    * **Integrates with Databases & Logging Systems:** Stores pentesting reports, providing access to historical data.
+
+* **PyQt5:**
+    * A set of Python bindings for the Qt application framework, used to build the GUI.
+    * **Cross-Platform & Feature-Rich:** Build GUI applications for Windows, macOS, and Linux with over 600 built-in widgets.
+    * **Event-Driven Programming:** Uses a signals and slots mechanism for seamless event handling.
+    * **Drag & Drop UI with Qt Designer:** Allows for visual creation of UIs, which can then be converted into Python code.
+
+---
