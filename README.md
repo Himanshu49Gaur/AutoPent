@@ -8,3 +8,15 @@ It combines **reconnaissance, vulnerability scanning, exploitation, privilege es
 Unlike traditional tools, AutoPent leverages **LLM (LLaMA 3.1)** to provide intelligent recommendations, generate remediation steps, and analyze vulnerabilities dynamically.
 
 ---
+
+## Key Features
+
+* **Automated Reconnaissance** – Domain, subdomain, and service discovery.
+* **Vulnerability Scanning** – Automated scans using Nmap, OpenVAS, and custom scripts.
+* **Exploitation Engine** – Metasploit-based automated exploitation with controlled payloads.
+* **Privilege Escalation** – Post-exploitation privilege escalation & persistence detection.
+* **AI Security Analysis** – LLaMA 3.1 for intelligent vulnerability assessment & mitigation strategies.
+* **Automated Reports** – Professional, compliance-ready PDF/HTML reports.
+* **Interactive GUI** – PyQt5-based dashboard for intuitive control and monitoring.
+
+---
