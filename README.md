@@ -168,3 +168,14 @@ A graphical user interface (GUI) is used to make the framework accessible and ea
     * **Drag & Drop UI with Qt Designer:** Allows for visual creation of UIs, which can then be converted into Python code.
 
 ---
+
+<img width="1395" height="710" alt="Screenshot 2025-09-14 022436" src="https://github.com/user-attachments/assets/eb80fc1b-6569-43dc-94cb-aa73a46baf90" />
+
+---
+
+## Why AutoPent?
+
+![WhatsApp Image 2025-08-24 at 16 55 46_fc85ad18](https://github.com/user-attachments/assets/98460812-1cb4-45cc-9b6d-778f3cfb55b1)
+
+
+---
