@@ -253,3 +253,11 @@ Unauthorized usage against systems without explicit permission is **illegal** an
 
 ---
 
+## Future Scope
+
+* [ ] Cloud Infrastructure Security Module
+* [ ] Real-time Threat Intelligence Integration
+* [ ] Mobile App Pentesting Support
+* [ ] Multi-user Collaboration Dashboard
+
+---
