@@ -216,3 +216,18 @@ Follow these steps to get a local copy up and running.
     ```
 
 ---
+
+## Usage
+
+1.  **Run the application from the `SourceCode` directory:**
+    ```sh
+    python autopent.py
+    ```
+
+2.  **Enter the target URL** in the input field (e.g., `http://example.com`).
+
+3.  **Click the "Start Security Test" button** to begin the automated penetration test.
+
+4.  The progress will be displayed in the text area. Once the test is complete, you can **download the final report** using the "Download Report" button.
+
+---
