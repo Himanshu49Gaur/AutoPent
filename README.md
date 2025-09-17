@@ -179,3 +179,40 @@ A graphical user interface (GUI) is used to make the framework accessible and ea
 
 
 ---
+
+## Getting Started
+
+Follow these steps to get a local copy up and running.
+
+### Prerequisites
+
+*   Python 3.x
+*   External tools like `nmap`, `nikto`, and `sqlmap` should be installed and available in your system's PATH.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/Abhinavmehra2004/CyberShield-Hakathon-Autopenters-.git
+    ```
+
+2.  **Navigate to the source code directory:**
+    ```sh
+    cd CyberShield-Hakathon-Autopenters-/SourceCode
+    ```
+
+3.  **Create and activate a virtual environment (recommended):**
+    ```sh
+    python -m venv venv
+    # On Windows
+    venv\Scripts\activate
+    # On macOS/Linux
+    source venv/bin/activate
+    ```
+
+4.  **Install the required Python packages:**
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+---
