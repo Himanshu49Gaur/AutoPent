@@ -231,3 +231,18 @@ Follow these steps to get a local copy up and running.
 4.  The progress will be displayed in the text area. Once the test is complete, you can **download the final report** using the "Download Report" button.
 
 ---
+
+## Use Cases
+
+* **Cyber Forensics & Incident Response**
+* **Enterprise Security Audits**
+* **Government & Law Enforcement Cyber Operations**
+* **Education & Training in Ethical Hacking**
+* **CI/CD Pipeline Integration:** Integrate automated security testing into CI/CD pipelines to identify vulnerabilities before deployment.
+* **Compliance and Auditing:** Assist organizations in meeting regulatory compliance requirements (e.g., PCI DSS, HIPAA) by performing regular security scans and generating audit-ready reports.
+* **Third-Party Risk Assessment:** Evaluate the security posture of third-party vendors and partners to manage supply chain risks.
+* **Cloud Security Posture Management (CSPM):** Scan cloud environments (AWS, Azure, GCP) for misconfigurations and security vulnerabilities.
+* **Red Team Automation:** Automate routine tasks for red teams, allowing them to focus on more advanced and strategic attack simulations.
+
+---
+
