@@ -246,3 +246,10 @@ Follow these steps to get a local copy up and running.
 
 ---
 
+## Disclaimer
+
+AutoPent is developed **strictly for ethical and authorized penetration testing**.
+Unauthorized usage against systems without explicit permission is **illegal** and punishable under **Indian IT Act (2000/2008 amendments)** and global cybercrime laws.
+
+---
+
