@@ -268,6 +268,6 @@ Unauthorized usage against systems without explicit permission is **illegal** an
 
 `Email` : 
 
-`LinkedIn`: 
+`LinkedIn`: http://www.linkedin.com/in/abhinav-mehra-356a7a333
 
 `GitHub` : 
