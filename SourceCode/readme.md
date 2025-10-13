@@ -35,3 +35,8 @@ AutoPent is an AI-powered penetration testing framework that automates reconnais
 
 1. **Install dependencies**
 
+2. **Configure environment**
+- Edit `config.py` for settings such as API keys, GPU settings, and scan parameters.
+
+3. **Run the framework**
+
