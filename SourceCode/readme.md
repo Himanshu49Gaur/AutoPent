@@ -40,3 +40,27 @@ AutoPent is an AI-powered penetration testing framework that automates reconnais
 
 3. **Run the framework**
 
+- Use `app.py` if launching as a server or integrating with an external API.
+
+---
+
+## Licensing
+
+Released under the **MIT License**.  
+Use for academic, research, and ethical cybersecurity development only.
+
+---
+
+## Authors
+
+- Himanshu Gaur  
+B.Tech Student, VIT Bhopal University  
+Email: himanshugaurr@gmail.com  
+GitHub: [Himanshu49Gaur](https://github.com/Himanshu49Gaur)
+
+---
+
+## Note
+
+This source code is part of AutoPent’s official release for academic and research purposes.  
+Unethical or unauthorized use is strictly prohibited.
