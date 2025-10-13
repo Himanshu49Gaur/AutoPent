@@ -1,0 +1,117 @@
+---
+
+1) Shodan (website)
+   https://www.shodan.io/
+   Description: Internet-connected device search engine / OSINT platform. Commercial service; provides API and CLI tools.
+   Related Open-source client (Python): https://github.com/achillean/shodan
+
+2) Onyphe
+   https://www.onyphe.io/
+   Description: Cybersecurity search engine / OSINT platform (hosted service with API). Commercial/Hosted.
+
+3) BinaryEdge
+   https://www.binaryedge.io/
+   Description: Asset discovery and OSINT platform. Commercial/Hosted.
+
+4) sqlmap
+   https://github.com/sqlmapproject/sqlmap
+   Description: Automatic SQL injection and database takeover tool. Open-source.
+
+5) Nmap (Network Mapper)
+   https://nmap.org/
+   Description: Network discovery and security auditing tool.
+   Python wrapper: https://pypi.org/project/python-nmap/
+
+6) Nikto
+   https://github.com/sullo/nikto
+   Description: Web server scanner which performs comprehensive tests against web servers for multiple items.
+
+7) OWASP ZAP (Zed Attack Proxy)
+   https://www.zaproxy.org/
+   Description: Intercepting proxy for web app security scanning. Open-source (OWASP project).
+
+8) Metasploit Framework
+   https://github.com/rapid7/metasploit-framework
+   Description: Exploitation framework for building and executing exploit code against remote targets. Open-source components.
+
+9) Python (programming language)
+   https://www.python.org/
+   Description: Primary language used for custom scripts, glue code, automation, and many security tools.
+
+10) pwntools
+    https://github.com/Gallopsled/pwntools
+    Description: CTF/exploit development library for Python — helpful for custom exploit automation.
+
+11) Impacket
+    https://github.com/SecureAuthCorp/impacket
+    Description: Collection of Python classes for working with network protocols and crafting packets, SMB, etc.
+
+12) Scapy
+    https://scapy.net/
+    GitHub: https://github.com/secdev/scapy
+    Description: Powerful Python packet manipulation and network interaction library.
+
+13) Requests
+    https://docs.python-requests.org/
+    GitHub: https://github.com/psf/requests
+    Description: Elegant HTTP library for Python — used in many automation scripts.
+
+14) BeautifulSoup4
+    https://www.crummy.com/software/BeautifulSoup/
+    PyPI: https://pypi.org/project/beautifulsoup4/
+    Description: HTML parsing library for web scraping during reconnaissance.
+
+15) Selenium
+    https://www.selenium.dev/
+    Description: Browser automation framework useful for scraping JS-heavy sites or automating web workflows.
+
+16) PEASS-ng (linPEAS / winPEAS)
+    https://github.com/peass-ng/PEASS-ng
+    Description: Privilege-escalation enumeration scripts for Linux and Windows (linPEAS, winPEAS). Open-source.
+
+17) llama.cpp
+    https://github.com/ggerganov/llama.cpp
+    Description: C/C++ implementation for running LLaMA-family models locally (inference runtimes).
+
+18) LLaMA (Meta)
+    https://ai.meta.com/llama/
+    Description: LLaMA language models and information from Meta (model distribution and papers).
+
+19) PyQt5
+    https://pypi.org/project/PyQt5/
+    Description: Python bindings for the Qt GUI toolkit — used to build desktop GUIs.
+
+20) Flask
+    https://flask.palletsprojects.com/
+    Description: Lightweight Python web framework — used for building web UIs/APIs.
+
+21) ReportLab (open-source toolkit)
+    https://pypi.org/project/reportlab/
+    Description: Generate PDFs from Python — common for automated reporting.
+
+22) FPDF / PyFPDF
+    https://pyfpdf.readthedocs.io/
+    PyPI: https://pypi.org/project/fpdf/
+    Description: Simple PDF generation library for Python.
+
+23) WeasyPrint
+    https://weasyprint.org/
+    Description: Render HTML/CSS to PDF (useful for styled reports).
+
+24) wkhtmltopdf
+    https://wkhtmltopdf.org/
+    Description: Command-line tool (WebKit) to render HTML pages to PDF. Not a Python library but commonly used with Python wrappers.
+
+25) pdfkit (Python wrapper)
+    https://pypi.org/project/pdfkit/
+    Description: Python wrapper for wkhtmltopdf / generate PDFs from HTML.
+
+26) python-nmap (wrapper)
+    https://pypi.org/project/python-nmap/
+    Description: Python library for interacting with nmap programmatically.
+
+27) msfrpc / Metasploit RPC (docs)
+    Metasploit project docs: https://github.com/rapid7/metasploit-framework/wiki/Using-the-Metasploit-RPC-Server
+    Description: Remote control for Metasploit via RPC — used for automation/integration with other scripts.
+
+---
