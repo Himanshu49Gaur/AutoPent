@@ -43,12 +43,6 @@ Unethical use or unauthorized exploitation of AutoPent or supporting materials i
 
 ---
 
-## Citation
-
-**Suggested academic citation:**
-> Gaur, Himanshu. *AutoPent: AI-Powered Penetration Testing Framework Using LLaMA 3.1*, 2025.
-
----
 
 ## Authors & Maintainers
 
