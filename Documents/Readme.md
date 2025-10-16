@@ -44,13 +44,6 @@ Unethical use or unauthorized exploitation of AutoPent or supporting materials i
 ---
 
 
-## Authors & Maintainers
-
-- **Himanshu Gaur**  
-  B.Tech Student, VIT Bhopal University  
-  Email: himanshugaurr@gmail.com  
-  GitHub: [Himanshu49Gaur](https://github.com/Himanshu49Gaur)
-
 ---
 
 ## Notes
