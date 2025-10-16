@@ -43,9 +43,6 @@ Unethical use or unauthorized exploitation of AutoPent or supporting materials i
 
 ---
 
-
----
-
 ## Notes
 All files are official, submitted for academic, research, and startup incubation purposes.
 All files are official, submitted for academic, research, and startup incubation purposes.
